@@ -1,40 +1,41 @@
 # **Train Sound Language Reference Sheet**
 
-Welcome aboard the **Train Sound Language**—a unique and expressive language inspired by the captivating sounds of trains. This guide will provide you with all the information you need to understand and communicate using this language. Whether you're a language enthusiast or just curious, let's embark on this linguistic journey together!
+Welcome aboard the **Train Sound Language**—a unique and expressive language inspired by the authentic sounds of real trains. This guide provides all the information you need to understand and communicate using the symphony of railway sounds. Whether you're a language enthusiast or simply curious, let's embark on this linguistic journey together!
 
 ---
 
 ## **Phonetics and Phonology**
 
-The Train Sound Language is built upon a set of distinct train sounds. Each sound represents a basic phoneme and serves as the building block for words and sentences.
+The Train Sound Language is built upon a set of distinct sounds that trains produce. Each sound represents a basic phoneme and serves as the building block for words and sentences.
 
 ### **Basic Sounds (Phonemes)**
 
-1. **Choo** - /tʃuː/ (Steam whistle sound)
-2. **Chug** - /tʃʌg/ (Engine running)
-3. **Clickety** - /ˈklɪkəti/ (Train wheels on tracks)
+1. **Choo** - /tʃuː/ (Steam whistle blast)
+2. **Chug** - /tʃʌg/ (Rhythmic engine sound)
+3. **Clickety** - /ˈklɪkəti/ (Wheels rolling on tracks)
 4. **Clack** - /klæk/ (Alternate wheel sound)
-5. **Whoo** - /wuː/ (Train horn)
-6. **Toot** - /tuːt/ (Short horn blast)
+5. **Whoo** - /wuː/ (Train horn, extended note)
+6. **Toot** - /tuːt/ (Train horn, short blast)
 7. **Ding** - /dɪŋ/ (Bell ringing)
 8. **Puff** - /pʌf/ (Steam release)
-9. **Hiss** - /hɪs/ (Air brakes)
-10. **Roll** - /roʊl/ (Sound of movement)
-11. **Brake** - /breɪk/ (Screeching halt)
-12. **Clang** - /klæŋ/ (Metallic impact)
-13. **Swish** - /swɪʃ/ (Passing by)
-14. **Rumble** - /ˈrʌmbəl/ (Distant approach)
-15. **Engine** - /ˈendʒɪn/ (Mechanical sound)
-16. **Ticket** - /ˈtɪkɪt/ (Paper ruffling)
-17. **Huff** - /hʌf/ (Effortful movement)
-18. **Hum** - /hʌm/ (Soft humming sound)
-19. **Shunt** - /ʃʌnt/ (Switching tracks)
+9. **Hiss** - /hɪs/ (Air brakes releasing)
+10. **Roll** - /roʊl/ (Continuous movement sound)
+11. **Brake** - /breɪk/ (Screech of brakes)
+12. **Clang** - /klæŋ/ (Metallic coupling impact)
+13. **Rumble** - /ˈrʌmbəl/ (Vibration of the train)
+14. **Screech** - /skriːtʃ/ (High-pitched brake sound)
+15. **Whirr** - /wɜːr/ (Mechanical whirring)
+16. **Swish** - /swɪʃ/ (Passing through air)
+17. **Thunk** - /θʌŋk/ (Heavy wheel impact)
+18. **Echo** - /ˈɛkoʊ/ (Sound reflecting in tunnels)
+19. **Horn** - /hɔːrn/ (General horn sound)
+20. **Buzz** - /bʌz/ (Electrical hum)
 
 ---
 
 ## **Alphabet and Writing System**
 
-The language uses a syllabary based on the basic sounds. Each sound represents a syllable. Words are written by spelling out these sounds as listed above, ensuring clarity and ease of learning.
+The language uses a syllabary based on these basic sounds. Each sound represents a syllable. Words are formed by combining these sounds, maintaining clarity and simplicity.
 
 ---
 
@@ -47,11 +48,11 @@ The standard sentence structure is **Subject–Verb–Object (SVO)**.
 **Example:**
 
 - **Choo chug roll.**
-  - "The train moves forward."
+  - Translation: "The train moves forward."
 
 ### **Articles**
 
-There are no direct equivalents of articles ("a", "an", "the"). Definiteness is determined by context.
+There are no direct equivalents of articles such as "a", "an", or "the". Definiteness is determined by context.
 
 ---
 
@@ -62,20 +63,19 @@ There are no direct equivalents of articles ("a", "an", "the"). Definiteness is 
 Nouns are represented by the basic sounds or combinations thereof.
 
 - **Choo** - **Train**
-- **Engine** - **Engine**
-- **Clickety-clack** - **Track**
-- **Ding-ding** - **Station**
-- **Toot** - **Signal**
-- **Puff-chug** - **Driver**
-- **Roll-roll** - **Passenger**
+- **Clickety-clack** - **Tracks**
+- **Ding** - **Station bell**
+- **Puff-puff** - **Steam**
 - **Rumble** - **Journey**
-- **Ticket** - **Ticket**
-- **Huff-huff** - **Tunnel**
-- **Clack-clang** - **Bridge**
+- **Echo-echo** - **Tunnel**
+- **Clang-clang** - **Coupling**
+- **Screech** - **Stop**
+- **Swish** - **Wind**
+- **Whirr-whirr** - **Engine**
 
 ### **Pronouns**
 
-Pronouns are formed by repeating or combining basic sounds.
+Pronouns are formed by repeating or modifying sounds.
 
 - **I / Me** - **Choo-choo**
 - **You** - **Toot-toot**
@@ -85,24 +85,25 @@ Pronouns are formed by repeating or combining basic sounds.
 
 ### **Verbs**
 
-Verbs represent actions and are often combinations of sounds.
+Verbs represent actions and are combinations of sounds.
 
 - **To go / Move** - **Chug**
 - **To stop** - **Brake**
 - **To start** - **Puff-chug**
 - **To arrive** - **Ding**
 - **To depart** - **Whoo**
-- **To signal / Have** - **Engine**
-- **To wait** - **Huff**
-- **To pass** - **Rumble**
+- **To signal / Announce** - **Horn**
+- **To wait** - **Hiss**
+- **To pass** - **Swish**
+- **To echo** - **Echo**
 
 ### **Adjectives**
 
 Adjectives modify nouns and usually come after the noun.
 
-- **Fast** - **Chug-chug-chug**
+- **Fast** - **Chug-chug**
 - **Slow** - **Brake-brake**
-- **Old** - **Hiss-hiss**
+- **Old** - **Whirr-whirr**
 - **New** - **Puff-puff**
 - **Long** - **Roll-roll**
 - **Short** - **Click-click**
@@ -113,18 +114,18 @@ Adverbs modify verbs and are placed after the verb.
 
 - **Quickly** - **Swish-swish**
 - **Slowly** - **Brake-brake**
-- **Quietly** - **Hum**
-- **Loudly** - **Whoo-whoo**
+- **Quietly** - **Hiss-hiss**
+- **Loudly** - **Horn-horn**
 
 ### **Prepositions**
 
 Prepositions are single sounds placed before the noun.
 
-- **At** - **Hum** (/hʌm/)
+- **At** - **Ding**
 - **From** - **Whoo**
-- **To** - **Click**
-- **Over** - **Roll**
-- **Under** - **Hiss**
+- **To** - **Roll**
+- **Over** - **Swish**
+- **Under** - **Echo**
 
 ### **Conjunctions**
 
@@ -158,9 +159,9 @@ Verbs are modified to indicate tense.
 
 ### **Negation**
 
-Negation is indicated by adding **shunt** before the verb.
+Negation is indicated by adding **screech** before the verb.
 
-- **I do not go** - **Choo-choo shunt chug**
+- **I do not go** - **Choo-choo screech chug**
 
 ---
 
@@ -178,7 +179,7 @@ Questions are formed by raising the intonation at the end and adding **whoo**.
 Possession is indicated by placing the possessor before the possessed, connected by **swish**.
 
 - **My train** - **Choo-choo swish choo**
-- **Your engine** - **Toot-toot swish engine**
+- **Your journey** - **Toot-toot swish rumble**
 
 ---
 
@@ -198,38 +199,33 @@ Possession is indicated by placing the possessor before the possessed, connected
 
 1. **I go to the station.**
 
-   - **Choo-choo chug click ding-ding.**
+   - **Choo-choo chug roll ding.**
      - Translation: "I go to station."
 
 2. **They will depart quickly.**
 
    - **Clack-clack whoo chug-whoo swish-swish.**
-     - Translation: "They will go quickly."
+     - Translation: "They will depart quickly."
 
 3. **We did not stop.**
 
-   - **Choo-choo-choo shunt brake.**
+   - **Choo-choo-choo screech brake.**
      - Translation: "We do not stop."
 
 4. **Is the train fast or slow?**
 
-   - **Choo chug-chug-chug clack brake-brake whoo?**
+   - **Choo chug-chug clack brake-brake whoo?**
      - Translation: "Train fast or slow?"
 
 5. **Please wait quietly.**
 
-   - **Puff huff hum.**
+   - **Puff hiss hiss-hiss.**
      - Translation: "Please wait quietly."
 
 6. **She did not arrive.**
 
-   - **Whoo-whoo shunt ding-hiss.**
+   - **Whoo-whoo screech ding-hiss.**
      - Translation: "She did not arrive."
-
-7. **They went under the bridge.**
-
-   - **Clack-clack chug-hiss hiss clack-clang.**
-     - Translation: "They went under bridge."
 
 ---
 
@@ -237,8 +233,8 @@ Possession is indicated by placing the possessor before the possessed, connected
 
 - **Emphasis:** Repeating a sound adds emphasis or intensity.
 
-  - **Fast** - **Chug-chug-chug**
-  - **Very fast** - **Chug-chug-chug-chug**
+  - **Fast** - **Chug-chug**
+  - **Very fast** - **Chug-chug-chug**
 
 - **Politeness:** Using **puff** before a request makes it polite.
 
@@ -256,7 +252,7 @@ Possession is indicated by placing the possessor before the possessed, connected
 Translate the following phrases into the Train Sound Language:
 
 1. **I will arrive at the station.**
-2. **Do you have my ticket?**
+2. **Do you signal my train?**
 3. **They went slowly.**
 4. **We are going to the new station.**
 5. **Please stop the train.**
@@ -265,19 +261,19 @@ Translate the following phrases into the Train Sound Language:
 
 ### **Answers:**
 
-1. **Choo-choo ding-whoo hum ding-ding.**
+1. **Choo-choo ding-whoo ding.**
 
    - **Explanation:** "I will arrive at station."
 
-2. **Toot-toot engine choo-choo swish ticket whoo?**
+2. **Toot-toot horn choo-choo swish choo whoo?**
 
-   - **Explanation:** "You have my ticket?"
+   - **Explanation:** "Do you signal my train?"
 
 3. **Clack-clack chug-hiss brake-brake.**
 
    - **Explanation:** "They went slowly."
 
-4. **Choo-choo-choo chug click puff-puff ding-ding.**
+4. **Choo-choo-choo chug roll puff-puff ding.**
 
    - **Explanation:** "We go to new station."
 
@@ -285,11 +281,11 @@ Translate the following phrases into the Train Sound Language:
 
    - **Explanation:** "Please stop train."
 
-6. **Whoo-whoo shunt huff-hiss.**
+6. **Whoo-whoo screech hiss-hiss.**
 
    - **Explanation:** "She did not wait."
 
-7. **Clack-clack chug-hiss hiss clack-clang.**
+7. **Clack-clack chug-hiss echo clang-clang.**
 
    - **Explanation:** "They went under bridge."
 
@@ -297,9 +293,9 @@ Translate the following phrases into the Train Sound Language:
 
 ## **Cultural Context**
 
-The Train Sound Language reflects the rhythm and ambiance of train travel. It's expressive and relies heavily on intonation, repetition, and the evocative nature of train sounds to convey meaning and emotion.
+The Train Sound Language reflects the authentic rhythm and atmosphere of train travel. It's expressive and relies heavily on intonation, repetition, and the evocative nature of train sounds to convey meaning and emotion.
 
-- **Festivals and Gatherings:** Celebrations might include communal **whoo-whoo** sounds, representing unity and joy.
+- **Festivals and Gatherings:** Celebrations might include communal **whoo-whoo** sounds, symbolizing unity and joy.
 
 - **Storytelling:** Narratives often mimic a train's journey, using sounds to represent different stages and emotions.
 
@@ -315,7 +311,7 @@ All aboard for a linguistic adventure!
 
 ### **Final Notes**
 
-By carefully assigning unique sounds to each grammatical function, potential ambiguities are eliminated, enhancing the clarity and expressiveness of the Train Sound Language. Whether you're giving commands, expressing emotions, or telling stories, this language offers a rich tapestry of sounds to convey your message.
+By carefully assigning unique sounds to each grammatical function, the Train Sound Language eliminates potential ambiguities, enhancing clarity and expressiveness. Whether you're giving commands, expressing emotions, or telling stories, this language offers a rich tapestry of train sounds to convey your message.
 
 Happy communicating!
 
