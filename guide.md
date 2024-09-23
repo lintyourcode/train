@@ -19,7 +19,7 @@ The foundation of the Train Sound Language lies in the distinct sounds produced 
 7. **Ding** - /dɪŋ/ (Bell sound)
 8. **Puff** - /pʌf/ (Steam release)
 9. **Hiss** - /hɪs/ (Brakes releasing)
-10. **Roll** - /roʊl/ (Continuous movement)
+10. **Roll** - /roʊl/ (Continuous movement; **figuratively:** life)
 11. **Brake** - /breɪk/ (Brakes engaging)
 12. **Clang** - /klæŋ/ (Metallic impact)
 13. **Rumble** - /ˈrʌmbəl/ (Deep vibration)
@@ -30,6 +30,7 @@ The foundation of the Train Sound Language lies in the distinct sounds produced 
 18. **Echo** - /ˈɛkoʊ/ (Sound reverberation)
 19. **Horn** - /hɔːrn/ (General horn sound)
 20. **Buzz** - /bʌz/ (Electrical hum)
+21. **Click** - /klɪk/ (Light mechanical sound)
 
 ---
 
@@ -56,7 +57,7 @@ The standard sentence structure follows the **Subject–Verb–Object (SVO)** pa
 
 ### **Nouns**
 
-Nouns represent people, places, things, or ideas. Below are common nouns in the language:
+Nouns represent people, places, things, or ideas.
 
 - **Choo** - **Train**
 - **Clickety-clack** - **Tracks**
@@ -70,10 +71,15 @@ Nouns represent people, places, things, or ideas. Below are common nouns in the 
 - **Whirr-whirr** - **Engine**
 - **Thunk** - **Drugs**
 - **Clang** - **Bridge**
+- **Roll** - **Life** (figuratively, also means continuous movement)
+
+#### **Demonstrative Pronouns**
+
+- **This** - **Whoo-whoo** (context-dependent)
 
 ### **Pronouns**
 
-Pronouns substitute for nouns and are formed by specific sound patterns.
+Pronouns substitute for nouns.
 
 - **I / Me** - **Choo-choo**
 - **You** - **Toot-toot**
@@ -95,10 +101,12 @@ Verbs express actions or states of being.
 - **To pass** - **Swish**
 - **To echo** - **Echo**
 - **To do** - **Whirr**
+- **To have** - **Click**
+- **To understand** - **Buzz-horn**
 
 ### **Adjectives**
 
-Adjectives describe or modify nouns. They typically follow the noun they modify.
+Adjectives describe or modify nouns.
 
 - **Fast** - **Chug-chug**
 - **Slow** - **Brake-brake**
@@ -109,7 +117,7 @@ Adjectives describe or modify nouns. They typically follow the noun they modify.
 
 ### **Adverbs**
 
-Adverbs modify verbs, adjectives, or other adverbs and usually come after the verb.
+Adverbs modify verbs, adjectives, or other adverbs.
 
 - **Quickly** - **Swish-swish**
 - **Slowly** - **Brake-brake**
@@ -118,7 +126,7 @@ Adverbs modify verbs, adjectives, or other adverbs and usually come after the ve
 
 ### **Prepositions**
 
-Prepositions are placed before nouns to indicate relationships.
+Prepositions are placed before nouns.
 
 - **At** - **Ding**
 - **From** - **Whoo**
@@ -133,6 +141,7 @@ Conjunctions connect words, phrases, or clauses.
 - **And** - **Clickety**
 - **Or** - **Clack**
 - **But** - **Clang**
+- **If** - **Buzz**
 
 ---
 
@@ -194,6 +203,29 @@ Possession is shown by placing the possessor before the possessed, connected wit
 
 ---
 
+## **Usage Tips**
+
+- **Emphasis:** Repeating a sound increases emphasis.
+  - **Very fast** - **Chug-chug-chug**
+
+- **Politeness:** Starting a request with **puff** makes it polite.
+  - **Please wait.** - **Puff hiss.**
+
+- **Commands:** Delivered with firm intonation.
+  - **Go now!** - **Chug swish!**
+
+---
+
+## **Notes on Figurative Language and Extended Meanings**
+
+### **Polysemy and Contextual Meanings**
+
+- **Roll**: While it literally means "continuous movement," it figuratively represents "life," symbolizing the ongoing journey.
+- **Whoo-whoo**: Functions as "he," "she," "it," and contextually as "this."
+- **Echo**: Can symbolize "memory" or "reflection" beyond its literal meaning.
+
+---
+
 ## **Sample Sentences**
 
 1. **I will arrive at the station.**
@@ -204,7 +236,7 @@ Possession is shown by placing the possessor before the possessed, connected wit
 2. **Do you do your work?**
 
    - **Toot-toot whirr toot-toot swish whirr-whirr whoo?**
-     - Breakdown: "You do your engine (work)?"
+     - Breakdown: "You do your work?"
 
 3. **They went slowly.**
 
@@ -233,19 +265,6 @@ Possession is shown by placing the possessor before the possessed, connected wit
 
 ---
 
-## **Usage Tips**
-
-- **Emphasis:** Repeating a sound increases emphasis.
-  - **Very fast** - **Chug-chug-chug**
-
-- **Politeness:** Starting a request with **puff** makes it polite.
-  - **Please wait.** - **Puff hiss.**
-
-- **Commands:** Delivered with firm intonation.
-  - **Go now!** - **Chug swish!**
-
----
-
 ## **Practice Exercises**
 
 Translate the following phrases into the Train Sound Language:
@@ -257,36 +276,91 @@ Translate the following phrases into the Train Sound Language:
 5. **We are going over the bridge.**
 6. **Please do your work quietly.**
 7. **He does not take drugs.**
+8. **If you understand, you will go.**
 
 ### **Answers:**
 
 1. **Clack-clack whirr-whoo clack-clack swish whirr-whirr swish-swish.**
 
-   - **Explanation:** "They will do their work quickly."
+   - **Explanation:**
+     - **Clack-clack** - They
+     - **Whirr-whoo** - Will do
+     - **Clack-clack** - Their
+     - **Swish** - Possession connector
+     - **Whirr-whirr** - Work
+     - **Swish-swish** - Quickly
 
-2. **Toot-toot thunk whoo?**
+2. **Toot-toot click thunk whoo?**
 
-   - **Explanation:** "Do you (have) drugs?"
+   - **Explanation:**
+     - **Toot-toot** - You
+     - **Click** - Have
+     - **Thunk** - Drugs
+     - **Whoo?** - Question marker
 
 3. **Choo-choo screech brake.**
 
-   - **Explanation:** "I do not stop."
+   - **Explanation:**
+     - **Choo-choo** - I
+     - **Screech** - Not
+     - **Brake** - Stop
 
 4. **Whoo-whoo screech ding-hiss puff-puff ding.**
 
-   - **Explanation:** "She did not arrive at new station."
+   - **Explanation:**
+     - **Whoo-whoo** - She
+     - **Screech** - Did not
+     - **Ding-hiss** - Arrived
+     - **Puff-puff** - New
+     - **Ding** - Station
 
-5. **Choo-choo-choo chug roll swish clang.**
+5. **Choo-choo-choo chug swish clang.**
 
-   - **Explanation:** "We go over bridge."
+   - **Explanation:**
+     - **Choo-choo-choo** - We
+     - **Chug** - Are going
+     - **Swish** - Over
+     - **Clang** - Bridge
 
 6. **Puff whirr toot-toot swish whirr-whirr hiss-hiss.**
 
-   - **Explanation:** "Please do your work quietly."
+   - **Explanation:**
+     - **Puff** - Please
+     - **Whirr** - Do
+     - **Toot-toot** - Your
+     - **Swish** - Possession connector
+     - **Whirr-whirr** - Work
+     - **Hiss-hiss** - Quietly
 
 7. **Whoo-whoo screech whirr thunk.**
 
-   - **Explanation:** "He does not do drugs."
+   - **Explanation:**
+     - **Whoo-whoo** - He
+     - **Screech** - Does not
+     - **Whirr** - Do
+     - **Thunk** - Drugs
+
+8. **Buzz toot-toot buzz-horn, toot-toot chug-whoo.**
+
+   - **Explanation:**
+     - **Buzz** - If
+     - **Toot-toot** - You
+     - **Buzz-horn** - Understand
+     - **Toot-toot** - You
+     - **Chug-whoo** - Will go
+
+---
+
+## **Additional Vocabulary Introduced**
+
+### **Conjunctions**
+
+- **If** - **Buzz**
+
+### **Verbs**
+
+- **To have** - **Click**
+- **To understand** - **Buzz-horn**
 
 ---
 
@@ -294,8 +368,8 @@ Translate the following phrases into the Train Sound Language:
 
 The Train Sound Language embodies the rhythm and spirit of train travel, with sounds chosen to reflect their meanings. Intonation, repetition, and sound combinations are key to expressing nuances and emotions.
 
-- **Celebrations:** Communal sounds like **whoo-whoo** express joy and unity.
-- **Storytelling:** Sounds are used to mimic the journey of a train, conveying action and emotion.
+- **Celebrations:** Communal sounds like **"whoo-whoo"** express joy and unity.
+- **Storytelling:** Sounds mimic the journey of a train, conveying action and emotion. Metaphors like **"roll"** for **"life"** illustrate the language's poetic nature.
 
 ---
 
