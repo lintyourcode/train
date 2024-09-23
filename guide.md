@@ -63,14 +63,15 @@ Nouns are represented by the basic sounds or combinations thereof.
 
 - **Choo** - **Train**
 - **Engine** - **Engine**
-- **Track** - **Clickety-clack**
-- **Station** - **Ding-ding**
-- **Signal** - **Toot**
-- **Driver** - **Puff-chug**
-- **Passenger** - **Roll-roll**
-- **Journey** - **Rumble**
+- **Clickety-clack** - **Track**
+- **Ding-ding** - **Station**
+- **Toot** - **Signal**
+- **Puff-chug** - **Driver**
+- **Roll-roll** - **Passenger**
+- **Rumble** - **Journey**
 - **Ticket** - **Ticket**
-- **Tunnel** - **Huff-huff**
+- **Huff-huff** - **Tunnel**
+- **Clack-clang** - **Bridge**
 
 ### **Pronouns**
 
@@ -92,7 +93,7 @@ Verbs represent actions and are often combinations of sounds.
 - **To arrive** - **Ding**
 - **To depart** - **Whoo**
 - **To signal / Have** - **Engine**
-- **To wait** - **Swish**
+- **To wait** - **Huff**
 - **To pass** - **Rumble**
 
 ### **Adjectives**
@@ -119,11 +120,11 @@ Adverbs modify verbs and are placed after the verb.
 
 Prepositions are single sounds placed before the noun.
 
-- **At** - **Ding**
+- **At** - **Hum** (/hʌm/)
 - **From** - **Whoo**
 - **To** - **Click**
 - **Over** - **Roll**
-- **Under** - **Huff**
+- **Under** - **Hiss**
 
 ### **Conjunctions**
 
@@ -174,10 +175,10 @@ Questions are formed by raising the intonation at the end and adding **whoo**.
 
 ## **Possession**
 
-Possession is indicated by placing the possessor before the possessed, connected by **ding**.
+Possession is indicated by placing the possessor before the possessed, connected by **swish**.
 
-- **My train** - **Choo-choo ding choo**
-- **Your engine** - **Toot-toot ding engine**
+- **My train** - **Choo-choo swish choo**
+- **Your engine** - **Toot-toot swish engine**
 
 ---
 
@@ -187,7 +188,7 @@ Possession is indicated by placing the possessor before the possessed, connected
 - **Goodbye** - **Whoo-hiss**
 - **Thank you** - **Ding-ding**
 - **Yes** - **Toot**
-- **No** - **Hiss**
+- **No** - **Brake-brake**
 - **Please** - **Puff**
 - **Sorry** - **Brake**
 
@@ -217,7 +218,7 @@ Possession is indicated by placing the possessor before the possessed, connected
 
 5. **Please wait quietly.**
 
-   - **Puff swish hum.**
+   - **Puff huff hum.**
      - Translation: "Please wait quietly."
 
 6. **She did not arrive.**
@@ -225,10 +226,10 @@ Possession is indicated by placing the possessor before the possessed, connected
    - **Whoo-whoo shunt ding-hiss.**
      - Translation: "She did not arrive."
 
-7. **They waited but did not go.**
+7. **They went under the bridge.**
 
-   - **Clack-clack swish-hiss clang shunt chug.**
-     - Translation: "They waited but did not go."
+   - **Clack-clack chug-hiss hiss clack-clang.**
+     - Translation: "They went under bridge."
 
 ---
 
@@ -264,11 +265,11 @@ Translate the following phrases into the Train Sound Language:
 
 ### **Answers:**
 
-1. **Choo-choo ding-whoo ding-ding.**
+1. **Choo-choo ding-whoo hum ding-ding.**
 
-   - **Explanation:** "I will arrive station."
+   - **Explanation:** "I will arrive at station."
 
-2. **Toot-toot engine choo-choo ding ticket whoo?**
+2. **Toot-toot engine choo-choo swish ticket whoo?**
 
    - **Explanation:** "You have my ticket?"
 
@@ -284,11 +285,11 @@ Translate the following phrases into the Train Sound Language:
 
    - **Explanation:** "Please stop train."
 
-6. **Whoo-whoo shunt swish-hiss.**
+6. **Whoo-whoo shunt huff-hiss.**
 
    - **Explanation:** "She did not wait."
 
-7. **Clack-clack chug-hiss huff bridge.**
+7. **Clack-clack chug-hiss hiss clack-clang.**
 
    - **Explanation:** "They went under bridge."
 
